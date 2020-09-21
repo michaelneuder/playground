@@ -1,4 +1,4 @@
-# Playground
+# Mike Neuder's changes to Playground
 
 A place to play with `git`.
 
