@@ -1,4 +1,5 @@
-# Guanhua's version of Playgrond
+# Mike Neuder's changes to Playground
+
 
 A place to play with `git`.
 
